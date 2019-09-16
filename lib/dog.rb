@@ -15,7 +15,3 @@ class Dog
 end 
 
 
-lassie.name = "lassie"
-
-lassie.bark
-puts lassie.name
