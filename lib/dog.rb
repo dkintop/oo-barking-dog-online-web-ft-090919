@@ -13,3 +13,9 @@ class Dog
   end 
   
 end 
+
+lassie = Dog.new 
+lassie.name = "lassie"
+
+lassie.bark
+puts las.name
